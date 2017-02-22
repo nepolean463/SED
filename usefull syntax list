@@ -1,1 +1,8 @@
+List of daily SED practice syntax.
+
+
+
+Reading and Writing files with "r" and "w"
+
+sed -n '/down/w filename' dukeofyorks.txt
 
